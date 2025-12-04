@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <OutputType>WinExe</OutputType>
+    <LangVersion>8.0</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PayPulse.Core\PayPulse.Core.csproj" />
+    <ProjectReference Include="..\PayPulse.Domain\PayPulse.Domain.csproj" />
+    <ProjectReference Include="..\PayPulse.Infrastructure\PayPulse.Infrastructure.csproj" />
+  </ItemGroup>
+</Project>

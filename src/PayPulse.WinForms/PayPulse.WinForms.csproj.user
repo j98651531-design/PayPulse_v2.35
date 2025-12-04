@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="BillingConfigForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BillingDashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChangePasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LiveLogsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LogsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProfileEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProfileLoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProfilesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProvidersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReportsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SecurityReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SyncDashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TokenForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UsersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
